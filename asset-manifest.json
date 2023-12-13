@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mount__Tourism/static/css/main.5bb598f4.css",
+    "main.js": "/Mount__Tourism/static/js/main.3d172cf1.js",
+    "index.html": "/Mount__Tourism/index.html",
+    "main.5bb598f4.css.map": "/Mount__Tourism/static/css/main.5bb598f4.css.map",
+    "main.3d172cf1.js.map": "/Mount__Tourism/static/js/main.3d172cf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb598f4.css",
+    "static/js/main.3d172cf1.js"
+  ]
+}

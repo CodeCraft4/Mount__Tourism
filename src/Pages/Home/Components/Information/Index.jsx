@@ -1,6 +1,6 @@
+import React from 'react'
 import { Box, Button, Container, Grid, Typography } from '@mui/material'
 import { INFO_SVG } from 'constant/content'
-import React from 'react'
 
 const Info = () => {
   return (

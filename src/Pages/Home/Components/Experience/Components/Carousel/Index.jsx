@@ -5,7 +5,6 @@ import MobileStepper from '@mui/material/MobileStepper';
 import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
-// import SwipeableViews from 'react-swipeable-views';
 import { autoPlay } from 'react-swipeable-views-utils';
 import { ArrowLeft, ArrowRight, Swipe } from '@mui/icons-material';
 import { TEXT } from 'constant/content'

@@ -1,7 +1,7 @@
+import React from 'react'
 import { Box, Container, Grid, Typography } from '@mui/material'
 import CommonButton from 'Components/Common/Button'
 import { TRAIL_INFO } from 'constant/content'
-import React from 'react'
 const Trails = () => {
     return (
         <div>
